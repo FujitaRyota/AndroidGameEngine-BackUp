@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidGameEngine.iml" filepath="$PROJECT_DIR$/AndroidGameEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGameEngine-BackUp.iml" filepath="$PROJECT_DIR$/AndroidGameEngine-BackUp.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngine/andEngine.iml" filepath="$PROJECT_DIR$/andEngine/andEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
